@@ -56,6 +56,6 @@ ht-degree: 2%
 
 * **[!UICONTROL 提升度]**：測量指定處理的轉換率相對於基準的提升百分比。
 
-* **[!UICONTROL 信賴度]**：指定處理與基準處理相同的證據。 [了解更多](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 信賴度]**：指定處理與基準處理相同的證據。 [了解更多](http://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 貢獻]**：量度中可歸因於特定實驗或處理的整體變更比例，可識別產生最大相對影響的方案。
