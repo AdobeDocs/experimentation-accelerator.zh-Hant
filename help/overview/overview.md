@@ -2,15 +2,15 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator
-description: 提高有效進行實驗並產生深入見解的能力
+description: 提高您有效地進行實驗並產生洞察的能力
 topic: Content Management
 role: User
 level: Beginner
-keywords: 內容，實驗，多個，對象，處理
+keywords: 內容，實驗，多個，客群，處理
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -21,23 +21,23 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->**Journey Optimizer Experimentation Accelerator**&#x200B;需要客戶的付費授權，並且可與Adobe Target或Adobe Journey Optimizer緊密整合。
+>**Journey Optimizer Experimentation Accelerator** 需要付費授權才可供客戶使用，並且可與 Adobe Target 或 Adobe Journey Optimizer 緊密整合。
 
-**Journey Optimizer Experimentation Accelerator**&#x200B;是功能強大的工具，專為簡化和增強實驗程式而設計。 透過與Adobe Target和Adobe Journey Optimizer整合，它提供管理、分析和最佳化實驗的集中平台。 Journey Optimizer Experimentation Accelerator可善用AI驅動的深入分析和適應性測試，協助您作出資料導向式決策、改善行銷策略及取得可衡量的結果。
+**Journey Optimizer Experimentation Accelerator** 是一項功能強大的工具，專為簡化和增強實驗程序而設計。藉由與 Adobe Target 和 Adobe Journey Optimizer 整合，它提供了管理、分析和最佳化實驗的集中平台。利用 AI 驅動的洞察和自適應測試，Journey Optimizer Experimentation Accelerator 可協助您做出資料導向的決策、改善行銷策略，並產生可衡量的結果。
 
-主要優點包括：
+主要優勢包括：
 
-* **更快速的實驗**：使用隨時間調整的模型執行最適化、永遠啟動的測試。
-* **Unified Platform**：在一個位置管理Adobe Target和Journey Optimizer的所有實驗。
-* **AI導向的深入分析**：自動呈現關鍵發現、效能驅動程式和新商機。
-* **更聰明的鎖定目標**：使用行為和內容資料來排定高影響力實驗的優先順序。
-* **KPI監控**：追蹤跨實驗的提升度和信賴度等量度。
-* **順暢的Collaboration**：輕鬆分享結果，並透過即時警示管理團隊角色。
+* **更快速的實驗**：透過隨時間調整的模型，執行始終在線的自適應測試。
+* **統一的平台**：在同一處管理 Adobe Target 和 Journey Optimizer 中的所有實驗。
+* **AI 驅動的洞察**：自動顯示重要發現、績效推動因素以及新機會。
+* **更聰明的目標選擇**：使用行為和內容資料，優先進行高影響力的實驗。
+* **KPI 監視**：跨不同實驗追蹤提升度和信賴度等量度。
+* **順暢的協作**：輕鬆分享結果，並透過即時警報來管理團隊角色。
 
 <table style="table-layout:fixed">
 <tr style="border: 0; text-align: center;">
-<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="開始使用" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">開始使用Journey Optimizer Experimentation Accelerator</a></td>
-<td><a href="../start/experiment-accelerator-best-practices.md"><img width="70%" alt="最佳實務" src="../assets/do-not-localize/best-practices.png"></a><br/><a href="../start/experiment-accelerator-best-practices.md">Journey Optimizer Experimentation Accelerator最佳作法</a></td>
-<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="track" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">追蹤及監控實驗效能</a></td>
+<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="開始使用" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">開始使用 Journey Optimizer Experimentation Accelerator</a></td>
+<td><a href="../start/experiment-accelerator-best-practices.md"><img width="70%" alt="最佳做法" src="../assets/do-not-localize/best-practices.png"></a><br/><a href="../start/experiment-accelerator-best-practices.md">Journey Optimizer Experimentation Accelerator 最佳做法</a></td>
+<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="追蹤" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">追蹤和監視實驗的績效</a></td>
 </tr>
 </table>
