@@ -16,7 +16,7 @@ ht-degree: 18%
 
 # 存取 Journey Optimizer Experimentation Accelerator
 
-在[建立並設定您的實驗](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)並將您的行銷活動或歷程傳送至您的設定檔後，您可以存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，以深入瞭解您的實驗如何執行。
+在[建立並設定您的實驗](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)並將您的行銷活動或歷程傳送至您的設定檔後，您可以存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，以深入瞭解您的實驗如何執行。
 
 您可以從[!UICONTROL Experimentation]下拉式清單的左側功能表，或透過Apps切換器存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**。 請注意，只有Target授權的使用者只能透過應用程式切換器存取。
 
