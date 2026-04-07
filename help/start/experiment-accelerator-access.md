@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: 內容，實驗，多個，客群，處理
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 18%
@@ -16,7 +16,7 @@ ht-degree: 18%
 
 # 存取 Journey Optimizer Experimentation Accelerator
 
-在[建立並設定您的實驗](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)並將您的行銷活動或歷程傳送至您的設定檔後，您可以存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，以深入瞭解您的實驗如何執行。
+在[建立並設定您的實驗](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)並將您的行銷活動或歷程傳送至您的設定檔後，您可以存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**，以深入瞭解您的實驗如何執行。
 
 您可以從[!UICONTROL Experimentation]下拉式清單的左側功能表，或透過Apps切換器存取&#x200B;**[!UICONTROL Journey Optimizer Experimentation Accelerator]**。 請注意，只有Target授權的使用者只能透過應用程式切換器存取。
 
@@ -51,7 +51,7 @@ ht-degree: 18%
 
 若要將此角色指派給新使用者：
 
-1. 導覽至[角色]儀表板中的[使用者]索引標籤&#x200B;**&#x200B;**，然後按一下[新增使用者]&#x200B;**&#x200B;**。
+1. 導覽至[角色]儀表板中的[使用者]索引標籤&#x200B;****，然後按一下[新增使用者]****。
 
 1. 輸入使用者的名稱、電子郵件地址，或從清單當中選擇，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
@@ -91,24 +91,26 @@ ht-degree: 18%
 
 1. 從&#x200B;**[!UICONTROL 許可權]**&#x200B;索引標籤中，選取&#x200B;**[!UICONTROL 沙箱]**。
 
-1. 新增使用者應能使用Journey Optimizer Experimentation Accelerator的沙箱，然後按一下「儲存」**&#x200B;**。
+1. 新增使用者應能使用Journey Optimizer Experimentation Accelerator的沙箱，然後按一下「儲存」****。
 
 1. 開啟&#x200B;**[!UICONTROL 使用者]**&#x200B;索引標籤，然後按一下&#x200B;**[!UICONTROL 新增使用者]**。
 
    ![](assets/permission-target-3.png)
 
-1. 新增應接收此存取許可權的使用者，然後按一下[儲存]。**&#x200B;**
+1. 新增應接收此存取許可權的使用者，然後按一下[儲存]。****
 
 新增至此設定檔的使用者現在可以從應用程式切換器存取Journey Optimizer Experimentation Accelerator。
 
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
