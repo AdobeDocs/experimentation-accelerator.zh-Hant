@@ -51,7 +51,7 @@ ht-degree: 18%
 
 若要將此角色指派給新使用者：
 
-1. 導覽至[角色]儀表板中的[使用者]索引標籤&#x200B;****，然後按一下[新增使用者]****。
+1. 導覽至[角色]儀表板中的[使用者]索引標籤&#x200B;**&#x200B;**，然後按一下[新增使用者]&#x200B;**&#x200B;**。
 
 1. 輸入使用者的名稱、電子郵件地址，或從清單當中選擇，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
@@ -91,13 +91,13 @@ ht-degree: 18%
 
 1. 從&#x200B;**[!UICONTROL 許可權]**&#x200B;索引標籤中，選取&#x200B;**[!UICONTROL 沙箱]**。
 
-1. 新增使用者應能使用Journey Optimizer Experimentation Accelerator的沙箱，然後按一下「儲存」****。
+1. 新增使用者應能使用Journey Optimizer Experimentation Accelerator的沙箱，然後按一下「儲存」**&#x200B;**。
 
 1. 開啟&#x200B;**[!UICONTROL 使用者]**&#x200B;索引標籤，然後按一下&#x200B;**[!UICONTROL 新增使用者]**。
 
    ![](assets/permission-target-3.png)
 
-1. 新增應接收此存取許可權的使用者，然後按一下[儲存]。****
+1. 新增應接收此存取許可權的使用者，然後按一下[儲存]。**&#x200B;**
 
 新增至此設定檔的使用者現在可以從應用程式切換器存取Journey Optimizer Experimentation Accelerator。
 
