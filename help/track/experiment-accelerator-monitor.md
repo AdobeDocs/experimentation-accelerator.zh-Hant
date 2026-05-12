@@ -163,7 +163,7 @@ KPI區段提供關鍵量度，包括已建立實驗總數和目前進行中的�
 
    對於源自&#x200B;**[!DNL Adobe Target]**&#x200B;的實驗，建議的變更將載入到&#x200B;**[!DNL Adobe Target]**&#x200B;的實驗工作流程中。
 
-   ➡️ [在Adobe Target檔案中進一步瞭解](https://experienceleague.adobe.com/en/docs/target/using/activities/abtest/test-ab)
+   ➡️ [在Adobe Target檔案中進一步瞭解](https://experienceleague.adobe.com/zh-hant/docs/target/using/activities/abtest/test-ab)
 
 1. 在實驗檢視中，可存取Journey Optimizer Experimentation Accelerator所顯示的相同AI **[!UICONTROL 實驗機會]**。
 
@@ -185,7 +185,7 @@ KPI區段提供關鍵量度，包括已建立實驗總數和目前進行中的�
 
 * **[!UICONTROL 提升度]**：測量指定處理的轉換率相對於基準的提升百分比。
 
-* **[!UICONTROL 信賴度]**：指定處理與基準處理相同的證據。 [了解更多](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 信賴度]**：指定處理與基準處理相同的證據。 [了解更多](http://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 轉換率]**：在檢視處理之後完成所需動作（例如，購買、註冊）的設定檔百分比。
 
