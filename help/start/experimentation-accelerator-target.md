@@ -47,6 +47,6 @@ Experimentation Accelerator可協助管理員管理[!DNL Adobe Target]工作區�
 
    ![](assets/experimentation-4.png)
 
-1. 按一下[儲存]以套用您的變更。****
+1. 按一下[儲存]以套用您的變更。**&#x200B;**
 
 為[!DNL Target]工作區建立初始連線後，請等待30分鐘讓更新在整個系統內傳播。
