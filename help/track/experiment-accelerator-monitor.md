@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
+source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
 workflow-type: tm+mt
-source-wordcount: 1127
-ht-degree: 3%
+source-wordcount: 1367
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 3%
 
 ## 控制面板 {#dashboard}
 
-存取實驗索引標籤時，Journey Optimizer和Adobe Target中所有可用的實驗都會列在合併檢視中。 這可讓您在一個位置快速檢閱和比較兩個平台的實驗。
+存取實驗索引標籤時，Journey Optimizer和Adobe Target中所有可用的實驗都會列在合併檢視中。這可讓您在一個位置快速檢閱和比較兩個平台的實驗。
 實驗清單包括：
 
 * 在行銷活動或歷程中建立的Journey Optimizer實驗。
@@ -62,6 +62,7 @@ KPI區段提供關鍵量度，包括已建立實驗總數和目前進行中的�
 實驗詳細資訊頁面分成以下區段：
 
 * [實驗結果](#experiment-outcome)
+* [主要量度](#change-primary-metric)
 * [假設](#hypothesis)
 * [詳細資料](#details)
 * [機會](#opportunities)
@@ -73,6 +74,42 @@ KPI區段提供關鍵量度，包括已建立實驗總數和目前進行中的�
 ![](assets/experiment-monitor-outcome.png)
 
 **[!UICONTROL 實驗結果]**&#x200B;可讓您快速檢視實驗中的成功變數。
+
+### 變更主要量度 {#change-primary-metric}
+
+>[!AVAILABILITY]
+>
+>只有具有&#x200B;**[!UICONTROL 管理實驗中繼資料]**&#x200B;許可權的使用者才能變更主要量度。
+
+變更主要量度適用於使用&#x200B;**[!DNL Customer Journey Analytics]**&#x200B;或&#x200B;**[!DNL Adobe Analytics]**&#x200B;作為在&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中建立之實驗的報告來源的團隊。
+
+當您設定或變更主要量度時，請記住下列事項：
+
+* 您一次匯入一個量度。 您的選擇會儲存為該實驗的主要量度。
+
+* 更新僅適用於Journey Optimizer Experimentation Accelerator。 它們不會回寫至Adobe Target或Adobe Journey Optimizer。
+
+* 如果您的組織僅使用Adobe Target作為報表來源，則無法在測試發佈後變更主要量度。
+
+若要變更現有實驗的主要量度，請遵循下列步驟：
+
+1. 從您的實驗中，如果尚未指派任何專案，請按一下&#x200B;**[!UICONTROL 選取主要量度]**，如果要變更，請按一下&#x200B;**[!UICONTROL 編輯]**。
+
+   ![](assets/primary-metric-1.png)
+
+1. 選取符合在&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中建立此實驗時設定的報告來源量度。
+
+   您可用的量度由&#x200B;**[!DNL Adobe Target]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;中設定的資料來源決定。 例如，如果已在Target中選取&#x200B;**[!DNL Customer Journey Analytics]** (CJA)作為報表來源，則只有CJA量度可供匯入。 您無法從其他資料來源切換至量度，且無法將主要量度變更為原生&#x200B;**[!DNL Adobe Target]**&#x200B;量度。
+
+1. 使用搜尋可依名稱尋找量度，或使用篩選器檢視已在作用中實驗中使用的量度。
+
+   ![](assets/primary-metric-1.png)
+
+1. 儲存您的選取。
+
+當您變更主要量度時，先前產生的分析和機會會被清除並重新產生。 在重新產生期間，會顯示下列訊息：
+
+`Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 
 ### 設定 {#set-up}
 
